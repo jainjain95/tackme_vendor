@@ -1,0 +1,3 @@
+class QrRqModel{
+  // String
+}
